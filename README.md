@@ -1,4 +1,4 @@
-#  Dmoney API Performance Test (Dmoney)
+#  Dmoney API Performance Test
 
 This is a practise performance testing repository made with Jmeter with some scenarios and also used assertion to verify the response. Finally i have created a HTML report with JMX and CSV file using GUI.
 
